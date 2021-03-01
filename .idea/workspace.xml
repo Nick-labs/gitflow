@@ -15,15 +15,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32723d18-a1cb-4bfa-a59c-b1f6162748d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Saimon.txt" afterDir="false" />
-    </list>
+    <list default="true" id="32723d18-a1cb-4bfa-a59c-b1f6162748d1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/listSaimon" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1pAKZZfjnYcE482W4lqlxFPQdpi" />
